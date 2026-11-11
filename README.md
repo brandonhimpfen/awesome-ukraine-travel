@@ -1,10 +1,16 @@
 # Awesome Ukraine Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandonhimpfen/awesome-travel)
 
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ)
 
 > A curated list of resources for traveling and cultural research in Ukraine, covering official state portals, national rail networks, cultural heritage guides, and diplomatic travel advisories.
 
 Ukraine is a resilient Eastern European destination featuring rich cultural heritage, historic architectural monuments, vibrant urban centers, and extensive natural river valleys. This list is intended for cultural researchers, heritage historians, independent travelers, and documentary explorers.
+
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
 
 ## Contents
 
@@ -106,7 +112,9 @@ Important consular warnings, emergency contact networks, and travel advisory res
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
