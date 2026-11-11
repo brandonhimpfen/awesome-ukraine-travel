@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling and cultural research in Ukraine, covering official state portals, national rail networks, cultural heritage guides, and diplomatic travel advisories.
 
+Ukraine is a resilient Eastern European destination featuring rich cultural heritage, historic architectural monuments, vibrant urban centers, and extensive natural river valleys. This list is intended for cultural researchers, heritage historians, independent travelers, and documentary explorers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
